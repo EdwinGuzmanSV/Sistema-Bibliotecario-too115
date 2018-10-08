@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdministradoresModelStoreContainer" CdmEntityContainer="AdministradoresEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="AdministradoresModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="IDAdministrador" ColumnName="IDAdministrador" />
+          <ScalarProperty Name="Dui" ColumnName="Dui" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="FechaDeNacimiento" ColumnName="FechaDeNacimiento" />
+          <ScalarProperty Name="Genero" ColumnName="Genero" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

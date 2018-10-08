@@ -1,0 +1,10 @@
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\bin\Debug\Administradores.dacpac
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\bin\Debug\Administradores.dll
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\bin\Debug\Administradores.pdb
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\Administradores.sqlprojAssemblyReference.cache
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\Administradores.dll
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\Administradores.pdb
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\Model.xml
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\refactor.xml
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\postdeploy.sql
+C:\Users\FernandoCastellanos\Desktop\Proyectos\Administradores\Administradores\obj\Debug\predeploy.sql
